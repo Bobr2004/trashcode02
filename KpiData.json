@@ -1,0 +1,52 @@
+{
+  "token": "5672116065:AAH1Wc_vR38ryAetzVMWErhyeyPKNAOxZ2U",
+  "kpi_triggers": [
+    "кпі",
+    "кпи",
+    "сікор",
+    "сикор",
+    "київський політех",
+    "київський политех"
+  ],
+  "sticker_kpi_data": {
+    "Lgbt": "CAACAgIAAxkBAAEHuENj6fRo0_QX8Q7CKxRSlvYy2AbU0wACQgADBEwuGfRCTOwX84VJLgQ",
+    "IQ": "CAACAgIAAxkBAAEHuEdj6fhYmyaVqcwyr5yDYVrE2hgB5wACawAD8lA_LnF7nzTg7L8LLgQ",
+    "Revo": "CAACAgIAAxkBAAEHu1dj6ouDXvrzJxVNcY9b2PrzoUNEwgACgQAD8lA_Lj3nMCCYlW7qLgQ"
+  },
+  "answer_kpi_data": [
+    "Обожаю Кпи",
+    "К слову о кпи"
+  ],
+  "fiot_triggers": [
+    "фіот",
+    "фиот"
+  ],
+  "sticker_fiot_data": {
+    "Fiot)": "CAACAgIAAxkBAAEHuIhj6iLqBDh1ThkeBeTd_d9fc8IJ-AACWQAD_mPtH2FhrgUQoHMkLgQ"
+  },
+  "answer_fiot_data": [
+    "К слову о Фиоте",
+    "Отличный факультет"
+  ],
+  "teff_triggers": [
+    "тефф"
+  ],
+  "sticker_teff_data": {
+    "Teff": "CAACAgIAAxkBAAEHuzdj6oTlvLhi1fPjeiVXjkBXjJo6qAACFhAAAui1QEsSmE6_8XrFpi4E"
+  },
+  "answer_teff_data": [
+    "К слову о Теффе"
+  ],
+  "dormitory_triggers": [
+    "общага",
+    "гуртожиток"
+  ],
+  "sticker_dormitory_data": {
+    "Tree": "CAACAgIAAxkBAAEHu29j6pGhI2X-3oXmrZs3iIQyq34EpQACgDEAAjHKSUuLVarJJMu2vi4E",
+    "Pines": "CAACAgIAAxkBAAEHu3dj6pKN-8HdO7SfR9x-sqvBPeFVggADGQACe6MoSxd9hjkZZwbbLgQ",
+    "Cremal": "CAACAgIAAxkBAAEHu4Bj6pRn_3J44TNwuL145Kjvo2WZMwACxxUAAh9b-UgC_FCorJmHZy4E"
+  },
+  "answer_dormitory_data": [
+    "Ох уж эта обащага Кпи"
+  ]
+}
