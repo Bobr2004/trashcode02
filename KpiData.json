@@ -29,16 +29,14 @@
     "Отличный факультет"
   ],
   "teff_triggers": [
-    "тефф",
     "теф",
-    "тэф",
-    "тэфф"
+    "тэф"
   ],
   "sticker_teff_data": {
     "Teff": "CAACAgIAAxkBAAEHuzdj6oTlvLhi1fPjeiVXjkBXjJo6qAACFhAAAui1QEsSmE6_8XrFpi4E"
   },
   "answer_teff_data": [
-    "К слову о Теффе"
+    "К слову о Тефе"
   ],
   "dormitory_triggers": [
     "общага",
